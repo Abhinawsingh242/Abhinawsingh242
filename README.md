@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinaw-singh-b094aa391/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinawsingh375@gmail.com) 
-[![Codeforces](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://codeforces.com/profile/ABHINAW_SINGH_242)
+[![Codeforces](https://img.shields.io/badge/codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=yellow)](https://codeforces.com/profile/ABHINAW_SINGH_242)
 [![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinawdingh242)
 
 
