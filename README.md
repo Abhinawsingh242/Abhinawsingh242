@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Abhinandan+Mishra.;Back-End+Developer+%7C+DTU+%2726+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Abhinaw+Singh.;Back-End+Developer+%7C+DTU+%2726+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhinawsingh242&theme=radical&no-frame=false&no-bg=true&margin-w=4)
