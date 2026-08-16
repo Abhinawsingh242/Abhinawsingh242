@@ -9,8 +9,8 @@ I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMU
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/abhinaw-singh-b094aa391/)
-[![Codeforces](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://codeforces.com/profile/ABHINAW_SINGH_242)
-[![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinawdingh242)
+[![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=Codeforces&logoColor=yellow)](https://codeforces.com/profile/ABHINAW_SINGH_242)
+[![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinawsingh242)
 
 ---
 
