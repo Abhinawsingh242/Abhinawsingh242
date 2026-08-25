@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Abhinaw+Singh.;B.Tech+CSE+Student+%7C+USICT+%2729)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/61475220/97093903-6d8aee80-166d-11eb-8799-13e119380d2b.jpg" width="50%" align=right>
+![head](https://user-images.githubusercontent.com/61475220/97102081-807edc80-16c8-11eb-901c-f7d332efa79c.png)
+
 
 I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMUNICATION & TECHNOLOGY @(USICT)CSE'29**
 
