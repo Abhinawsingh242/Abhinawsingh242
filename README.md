@@ -2,13 +2,14 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fbb04cae-186f-48e2-9538-2a9c1cd59005" alt="Anas Jameel" width="340" style="border-radius: 50%;" />
-  
+
   <br /><br />
+
   # Anas Jameel
-  
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=36&lines=Software%20Engineer%20%7C%20Solo%20Dev;React%20Native%20Specialist;Deep%20Learning%20%26%20Model%20Training;Shipping%20Apps%20To%20Production" alt="Typing Subtitle" />
-  </div>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=36&lines=Software+Engineer+%7C+Solo+Dev;React+Native+Specialist;Deep+Learning+%26+Model+Training;Shipping+Apps+To+Production" alt="Typing Subtitle" />
+
+</div>
 
 I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMUNICATION & TECHNOLOGY @(USICT)CSE'29**
 
