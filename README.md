@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Abhinaw+Singh.;B.Tech+CSE+Student+%7C+USICT+%2729)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="assets/portrait.jpg" alt="Anas Jameel" width="340" style="border-radius: 50%;" />
+  <img src="https://github.com/user-attachments/assets/fbb04cae-186f-48e2-9538-2a9c1cd59005" alt="Anas Jameel" width="340" style="border-radius: 50%;" />
   
   <br /><br />
   # Anas Jameel
