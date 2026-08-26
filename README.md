@@ -1,15 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Abhinaw+Singh.;B.Tech+CSE+Student+%7C+USICT+%2729)](https://git.io/typing-svg)
 
-<div align="center">
-  <br /><br />
+<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/8a3d7028-3f10-44b2-b125-29023f984c3f" />
 
-  # Anas Jameel
-
-  <br />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=Software+Engineer+%7C+Solo+Dev;React+Native+Specialist;Deep+Learning+%26+Model+Training;Shipping+Apps+To+Production" alt="Typing SVG" />
-
-</div>
 
 I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMUNICATION & TECHNOLOGY @(USICT)CSE'29**
 
