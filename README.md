@@ -7,7 +7,7 @@
 
   # Anas Jameel
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=36&lines=Software+Engineer+%7C+Solo+Dev;React+Native+Specialist;Deep+Learning+%26+Model+Training;Shipping+Apps+To+Production" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=Software+Engineer+%7C+Solo+Dev;React+Native+Specialist;Deep+Learning+%26+Model+Training;Shipping+Apps+To+Production" alt="Typing Subtitle" />
 
 </div>
 
