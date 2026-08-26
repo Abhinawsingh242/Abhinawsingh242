@@ -8,7 +8,7 @@
   # Anas Jameel
   
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=36&lines=Software%20Engineer%20%7C%20Solo%20Dev;React%20Native%20Specialist;Deep%20Learning%20%26%20Model%20Training;Shipping%20Apps%20To%20Production" alt="Typing Subtitle" />
+    <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/a30905c3-49a4-48f6-8608-e70bbf87331e" />
   </div>
 
 
