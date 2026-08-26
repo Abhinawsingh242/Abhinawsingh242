@@ -2,8 +2,8 @@
 
  <div align="center">
 <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/e54fa93f-45fc-4aa5-b411-e4bf7c6d4076" />
-
   </div>
+
 
 
 I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMUNICATION & TECHNOLOGY @(USICT)CSE'29**
