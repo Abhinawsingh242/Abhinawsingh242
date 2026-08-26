@@ -3,7 +3,16 @@
  <div align="center">
 <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/e54fa93f-45fc-4aa5-b411-e4bf7c6d4076" />
   </div>
+<div align="center">
+  <img src="assets/portrait.svg" alt="Anas Jameel Dot-Matrix Portrait" width="340" />
+  
+  <br /><br />
 
+  # Anas Jameel
+  
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=36&lines=Software%20Engineer%20%7C%20Solo%20Dev;React%20Native%20Specialist;Deep%20Learning%20%26%20Model%20Training;Shipping%20Apps%20To%20Production" alt="Typing Subtitle" />
+  </div>
 
 
 I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMUNICATION & TECHNOLOGY @(USICT)CSE'29**
