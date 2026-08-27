@@ -4,10 +4,10 @@
 <img width="950" height="600" alt="image" src="https://github.com/user-attachments/assets/e54fa93f-45fc-4aa5-b411-e4bf7c6d4076" />
   </div>
 
----
+
 I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMUNICATION & TECHNOLOGY @(USICT)CSE'29**
 
-
+---
 ### 🛠️ Tech Stack
 **Languages:**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -25,6 +25,7 @@ I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMU
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/abhinaw-singh-b094aa391/)
