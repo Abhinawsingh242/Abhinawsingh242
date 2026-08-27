@@ -40,6 +40,7 @@ I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMU
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
