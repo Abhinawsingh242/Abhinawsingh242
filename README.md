@@ -2,7 +2,7 @@
 
 
  <div align="center">
- <img width="436" height="436" alt="image" src="https://github.com/user-attachments/assets/19fb0357-58f0-4acb-a9d1-8f69c65b8bf8" />
+ <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/19fb0357-58f0-4acb-a9d1-8f69c65b8bf8" />
  </div>
 
 I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMUNICATION & TECHNOLOGY @(USICT) CSE'29**
