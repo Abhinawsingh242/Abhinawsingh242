@@ -38,7 +38,7 @@ I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMU
 ### 🏆 Highlights
 - 200+ CP problems solved 💻  
 - Codeforces Newbie 🧠 | CodeChef 1★ 🍜
-- Top 1.5% in JEE Mains 🚀  
+- Top 3.7% in JEE Mains 🚀  
 
 ---
 
