@@ -1,17 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Abhinaw+Singh.;B.Tech+CSE+Student+%7C+USICT+%2729)](https://git.io/typing-svg)
 
 
-
-
-
-
  <div align="center">
  <img width="436" height="436" alt="image" src="https://github.com/user-attachments/assets/19fb0357-58f0-4acb-a9d1-8f69c65b8bf8" />
  </div>
-
-
-
-
 
 I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMUNICATION & TECHNOLOGY @(USICT) CSE'29**
 
@@ -49,6 +41,13 @@ I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMU
 [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=Codeforces&logoColor=yellow)](https://codeforces.com/profile/ABHINAW_SINGH_242)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/ABHINAW_SINGH_242/)
 [![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinawsingh242)
+
+---
+
+### 🏆 Highlights
+- 200+ CP problems solved 💻  
+- Codeforces Newbie 🧠 | CodeChef 1★ 🍜
+- Top 1.5% in JEE Mains 🚀  
 
 ---
 
