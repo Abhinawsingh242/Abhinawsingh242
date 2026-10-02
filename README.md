@@ -35,6 +35,13 @@ I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMU
 
 ---
 
+### 🏆 Highlights
+- 200+ CP problems solved 💻  
+- Codeforces Newbie 🧠 | CodeChef 1★ 🍜
+- Top 1.5% in JEE Mains 🚀  
+
+---
+
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/abhinaw-singh-b094aa391/)
@@ -44,12 +51,6 @@ I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMU
 
 ---
 
-### 🏆 Highlights
-- 200+ CP problems solved 💻  
-- Codeforces Newbie 🧠 | CodeChef 1★ 🍜
-- Top 1.5% in JEE Mains 🚀  
-
----
 
 
 
