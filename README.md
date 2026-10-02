@@ -28,6 +28,7 @@ I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMU
 ---
 
 <!-- Snake Game Repo View -->
+### 📈 GitHub Activity
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
