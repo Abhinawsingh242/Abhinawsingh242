@@ -28,6 +28,13 @@ I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMU
 
 ---
 
+### 🧠 Recent Projects
+- 🎬 **[Video Editing Platform](https://github.com/akmmbh/Video-Editor)** – Built a custom Node.js web framework with FFmpeg-based video processing and multi-core clustering.
+- 🛰️ **[DHCP Protocol in C](https://github.com/akmmbh/DHCP-server-client/tree/main)** – Simulated DISCOVER → OFFER → REQUEST → ACK with UDP sockets.
+---
+
+
+
 <!-- Snake Game Repo View -->
 ### 📈 GitHub Activity
 
