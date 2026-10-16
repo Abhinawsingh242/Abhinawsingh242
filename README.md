@@ -2,12 +2,16 @@
 
 
 
-
  <div align="center">
  <img width="436" height="436" alt="image" src="https://github.com/user-attachments/assets/19fb0357-58f0-4acb-a9d1-8f69c65b8bf8" />
  </div>
 
 I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMUNICATION & TECHNOLOGY @(USICT) CSE'29**
+working on scalable backend systems, compiler design, and network protocols.  
+I’ve developed my own **Node.js-based video editing platform**, implemented **DHCP using C and sockets**, and even built a **custom compiler** that generates assembly!
+
+---
+
 
 ---
 ### 🛠️ Tech Stack
