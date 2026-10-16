@@ -7,7 +7,7 @@
  </div>
 
 I'm currently a second year student at **UNIVERSITY SCHOOL OF INFORMATION, COMMUNICATION & TECHNOLOGY @(USICT) CSE'29** working on scalable backend systems, compiler design, and network protocols.  
-I’ve developed my own **Node.js-based video editing platform**, implemented **DHCP using C and sockets**
+I’ve developed my own **Node.js-based video editing platform**, implemented **DHCP using C and sockets**!
 ---
 
 
