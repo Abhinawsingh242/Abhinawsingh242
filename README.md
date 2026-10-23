@@ -39,7 +39,10 @@
 ### 🧠 Recent Projects
 - 🎬 **[Video Editing Platform](https://github.com/Abhinawsingh242/Video-Editor)** – Built a custom Node.js web framework with FFmpeg-based video processing and multi-core clustering.
 - 🛰️ **[DHCP Protocol in C](https://github.com/Abhinawsingh242/DHCP-SERVER-CLIENT-SIMULATION)** – Simulated DISCOVER → OFFER → REQUEST → ACK with UDP sockets.
-- 🧠 **[Mental-Health-Score_Predictor ](https://github.com/Abhinawsingh242/Mental-Health-Score_Predictor)** – .
+- 🧠 **[Mental-Health-Score-Predictor ](https://github.com/Abhinawsingh242/Mental-Health-Score_Predictor)** – Developed a machine learning-based system for mental health score prediction, integrating predictive modeling with a web-based interface.
+
+
+
 ---
 
 
